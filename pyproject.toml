@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "eventex"
+version = "0.1.0"
+description = ""
+authors = ["Wesley Borges <djwesleyborges@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^4.2.1"
+python-decouple = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
