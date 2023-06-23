@@ -107,3 +107,4 @@ class SubscribeSuccessMessage(TestCase):
 
     def test_message(self):
         self.assertContains(self.resp, 'Inscrição realizada com sucesso!')
+
