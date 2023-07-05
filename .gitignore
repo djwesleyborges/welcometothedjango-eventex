@@ -162,3 +162,4 @@ eventex/.idea/
 eventex/core/migrations
 eventex/subscriptions/migrations
 eventex/.env
+/staticfiles/
